@@ -31,4 +31,4 @@ O código do produto é único, garantindo que não haja repetição.
 
 ## Desenvolvedor
 
-- Vinicius Chiazza - Desenvolvedor Fullstack [GitHub](https://github.com/ViniciusChiazza) 👨‍💻
+- Vinicius Chiazza - Desenvolvedor Fullstack [LinkedIn]([https://github.com/ViniciusChiazza](https://www.linkedin.com/in/viniciuschiazza/)https://www.linkedin.com/in/viniciuschiazza/) 👨‍💻
