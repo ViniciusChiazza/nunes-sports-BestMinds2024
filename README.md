@@ -26,6 +26,9 @@ O **Projeto Nunes Sports** é uma aplicação web desenvolvida para gerenciar pr
 
 O código do produto é único, garantindo que não haja repetição.
 
+## Banco de dados MongoDB
+
+![Nunes-SportsGif](imgParaReadme/nunes-sports.gif)
 
 ## Como Usar
 
