@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <title>Nunes Sports</title>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Produtos - Nunes Sports</h1>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Código</th>
+                    <th>Nome</th>
+                    <th>Descrição</th>
+                    <th>Preço</th>
+                    <th>Ações</th>
+                </tr>
+            </thead>
+            <tbody id="product-list">
+                <!-- Os produtos serão exibidos aqui dinamicamente -->
+            </tbody>
+        </table>
+
+        <form id="product-form">
+            <label for="product-code">Código do Produto:</label>
+            <input type="number" id="product-code" required>
+
+            <label for="product-name">Nome do Produto:</label>
+            <input type="text" id="product-name" required>
+
+            <label for="product-description">Descrição do Produto:</label>
+            <textarea id="product-description" required></textarea>
+
+            <label for="product-price">Preço do Produto:</label>
+            <input type="number" id="product-price" required>
+
+            <button type="submit">Salvar</button>
+        </form>
+    </div>
+
+    <script src="/main.js"></script>
+</body>
+<footer>
+    <h2>Por Vinicius Chiazza <a href="https://www.linkedin.com/in/viniciuschiazza/" target="_blank">
+        <i class="fab fa-linkedin fa-lg"></i>
+    </a></h2> 
+</footer>
+</html>
