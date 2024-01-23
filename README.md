@@ -1,6 +1,6 @@
 # Projeto Nunes Sports 🏀⚽
 <p align="center">
-  <img src="imgParaReadme/nunes-sports.jpeg" alt="foto do projeto Nunes-Sports" width="100"/>
+  <img src="imgParaReadme/nunes-sports.jpeg" alt="foto do projeto Nunes-Sports"/>
 </p>
 
 ## Introdução
