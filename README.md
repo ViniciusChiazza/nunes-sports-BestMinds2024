@@ -20,6 +20,7 @@ O **Projeto Nunes Sports** é uma aplicação web desenvolvida para gerenciar pr
 - Express
 - MongoDB
 - Mongoose
+- CORS
 
 ## Validação de Dados
 
@@ -30,7 +31,8 @@ O código do produto é único, garantindo que não haja repetição.
 1. Clone este repositório.
 2. Instale as dependências usando `npm install`.
 3. Inicie o servidor com `node server.js`.
-4. Acesse a aplicação no navegador: [http://localhost:3000](http://localhost:3000).
+4. Inicie o banco de dados com `mongod`, e tenha certeza de ter o mongoDB e mongoose instalados com `npm install mongoose`.
+5. Acesse a aplicação no navegador: [http://localhost:3000](http://localhost:3000).
 
 ## Desenvolvedor
 
