@@ -5,7 +5,7 @@
 
 ## Introdução
 
-O **Projeto Nunes Sports** é uma aplicação web desenvolvida para gerenciar produtos esportivos. A aplicação oferece operações CRUD (Create, Read, Update, Delete) para manter um catálogo de produtos atualizado.
+O **Projeto Nunes Sports** é uma aplicação web desenvolvida para gerenciar produtos esportivos. A aplicação oferece operações CRUD (Create, Read, Update, Delete) para manter um catálogo de produtos atualizado, utilizando o banco de dados MongoDB um banco de dados NoSQL.
 
 ## Funcionalidades
 
@@ -25,6 +25,7 @@ O **Projeto Nunes Sports** é uma aplicação web desenvolvida para gerenciar pr
 ## Validação de Dados
 
 O código do produto é único, garantindo que não haja repetição.
+
 
 ## Como Usar
 
